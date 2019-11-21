@@ -49,8 +49,3 @@ The plan to move forward?
 We will create different blocks and levels first and then add music, timer and other features
 
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
