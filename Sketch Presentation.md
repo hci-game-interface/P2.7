@@ -3,12 +3,15 @@ What is Tetris and how to play this?
 Tetris is a tile-matching puzzle video game. It is primarily composed of a field of play in which pieces of different geometric forms, called "tetriminos", descend from the top of the field.During this descent, the player can move the pieces laterally and rotate them until they touch the bottom of the field or land on a piece that had been placed before it. 
 
 The objective of the game is to use the pieces to create as many horizontal lines of blocks as possible. When a line is completed, it disappears, and the blocks placed above fall one rank. Completing lines grants points, and accumulating a certain number of points moves the player up a level, which increases the number of points granted per completed line.
+
+
+
+
 | Team Members      | Duties                                                                                                                                                                                                                |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Vineela Aradhyula | Making the Tetris game board Creating various Tetris shapes Implementing keyboard movement Creating levels for the game Display Current Score and High Score Makes sure that ‘Golden Rules & Principles’ are followed |
 | Nitisha Patange   | Implementing ‘Pause’ feature so that the player can pause the game  and resume it to continue without loosing the score  Setting up the timer to track the game time                                                  |
 | Sonali Singh      | Adding the background design and image for the interface   Implementing music feature, where the game exhibits different  sounds while playing                                                                        |
-
 Team Members  
 Duties
 
