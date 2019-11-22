@@ -9,10 +9,9 @@ The objective of the game is to use the pieces to create as many horizontal line
 
 | Team Members      | Duties                                                                                                                                                                                                                |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Vineela Aradhyula 
-<img src="https://user-images.githubusercontent.com/58001098/69386331-f80de580-0c87-11ea-9ef6-67ca9ca6e530.jpg" width="100"/>| Making the Tetris game board Creating various Tetris shapes Implementing keyboard movement Creating levels for the game Display Current Score and High Score Makes sure that ‘Golden Rules & Principles’ are followed |
-| Nitisha Patange   | Implementing ‘Pause’ feature so that the player can pause the game  and resume it to continue without loosing the score  Setting up the timer to track the game time                                                  |
-| Sonali Singh      | Adding the background design and image for the interface   Implementing music feature, where the game exhibits different  sounds while playing                                                                        |
+| Vineela Aradhyula <img src="https://user-images.githubusercontent.com/58001098/69386331-f80de580-0c87-11ea-9ef6-67ca9ca6e530.jpg" width="100"/>| Making the Tetris game board Creating various Tetris shapes Implementing keyboard movement Creating levels for the game Display Current Score and High Score Makes sure that ‘Golden Rules & Principles’ are followed |
+| Nitisha Patange <img src="https://user-images.githubusercontent.com/58001098/69386759-1fb17d80-0c89-11ea-851f-673eed82470f.jpeg" width="100"/>| Implementing ‘Pause’ feature so that the player can pause the game  and resume it to continue without loosing the score  Setting up the timer to track the game time                                                |
+| Sonali Singh <img src="https://user-images.githubusercontent.com/58001098/69386855-6ef7ae00-0c89-11ea-87a4-2224ca63051f.jpeg" width="100"/>| Adding the background design and image for the interface   Implementing music feature, where the game exhibits different  sounds while playing                                                                        |
 Team Members  
 Duties
 
