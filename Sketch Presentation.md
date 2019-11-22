@@ -37,6 +37,9 @@ We did set up the game board and a background image and will add other features 
 
 The plan to move forward?
 
-We will create different blocks and levels first and then add music, timer and other features
+We will move with the implementation as shown in the sketches above.
 
+Step 1 - Game Board, Blocks, Timer
+Step 2 - Next block, Current Score, High Score
+Step 3 - Pause/Resume game, show up levels
 
