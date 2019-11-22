@@ -38,7 +38,6 @@ We did set up the game board and a background image and will add other features 
 The plan to move forward?
 
 We will move with the implementation as shown in the sketches above.
-
 <br>Step 1 - Game Board, Blocks, Timer
 <br>Step 2 - Next block, Current Score, High Score
 <br>Step 3 - Pause/Resume game, show up levels
