@@ -14,16 +14,15 @@ The objective of the game is to use the pieces to create as many horizontal line
 | Sonali Singh  <br><img src="https://user-images.githubusercontent.com/58001098/69386855-6ef7ae00-0c89-11ea-87a4-2224ca63051f.jpeg" width="100">    | Adding the background design and image for the interface<br>Implementing music feature, where the game exhibits different <br>sounds while playing                                                                                                                                                                                                                                                                                                                    |                                                                    |
 
 Sketch UI and the main functions         
- 
-<br>An elegant  Tetris game board with various Tetris shapes will be implemented
-<br>Keyboard movement will be created to move the blocks
-<br>‘Levels’ feature will be created for the player to move to the next level
-<br>Current Score and High Score information will be shown up on the interface
-<br>A timer will be set to track the game time
-<br>‘Pause’ and ‘Resume’ options will be provided for the player to stop the game in between and continue from there
-<br>The interface will have visually appealing design and background image
-<br>Music feature will be implemented to produce different sounds when the game is being played
-<br>The interface will follow all the ‘Golden Rules & Principles’ such as consistency, color, background, font, size etc that is covered in the class
+<br>1. An elegant  Tetris game board with various Tetris shapes will be implemented
+<br>2. Keyboard movement will be created to move the blocks
+<br>3. ‘Levels’ feature will be created for the player to move to the next level
+<br>4. Current Score and High Score information will be shown up on the interface
+<br>5. A timer will be set to track the game time
+<br>6. ‘Pause’ and ‘Resume’ options will be provided for the player to stop the game in between and continue from there
+<br>7. The interface will have visually appealing design and background image
+<br>8. Music feature will be implemented to produce different sounds when the game is being played
+<br>9. The interface will follow all the ‘Golden Rules & Principles’ such as consistency, color, background, font, size etc that is covered in the class
 
 
 How far did you go with the implementation?
