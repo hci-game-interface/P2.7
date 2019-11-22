@@ -15,11 +15,7 @@ The objective of the game is to use the pieces to create as many horizontal line
 
 Sketch UI :
 
-<h3> Step 1
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Step 2 </h3> 
 <img src="https://user-images.githubusercontent.com/58001098/69388267-e7606e00-0c8d-11ea-9153-b450e0bb1ca0.png" width="400"> <img src="https://user-images.githubusercontent.com/58001098/69388390-5342d680-0c8e-11ea-9fc9-6648081993dd.png" width="280">
-<h3>Step 3</h3>
 <img src="https://user-images.githubusercontent.com/58001098/69388470-8be2b000-0c8e-11ea-9db6-d11fa8104dd9.png" width="600">
 
 <br><br>Main functions :
