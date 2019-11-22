@@ -14,7 +14,7 @@ The objective of the game is to use the pieces to create as many horizontal line
 | Sonali Singh  <br><img src="https://user-images.githubusercontent.com/58001098/69386855-6ef7ae00-0c89-11ea-87a4-2224ca63051f.jpeg" width="100">    | Adding the background design and image for the interface<br>Implementing music feature, where the game exhibits different <br>sounds while playing                                                                                                                                                                                                                                                                                                                    |                                                                    |
 
 Sketch UI and the main functions 
-<br><img src="https://user-images.githubusercontent.com/58001098/69388267-e7606e00-0c8d-11ea-9153-b450e0bb1ca0.png" width="400">
+<br><img src="https://user-images.githubusercontent.com/58001098/69388267-e7606e00-0c8d-11ea-9153-b450e0bb1ca0.png" width="400"> <img src="https://user-images.githubusercontent.com/58001098/69388390-5342d680-0c8e-11ea-9fc9-6648081993dd.png" width="400">
 <br>1. An elegant  Tetris game board with various Tetris shapes will be implemented
 <br>2. Keyboard movement will be created to move the blocks
 <br>3. ‘Levels’ feature will be created for the player to move to the next level
