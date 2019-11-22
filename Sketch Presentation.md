@@ -15,15 +15,16 @@ The objective of the game is to use the pieces to create as many horizontal line
 
 Sketch UI and the main functions         
  
-An elegant  Tetris game board with various Tetris shapes will be implemented
-Keyboard movement will be created to move the blocks
-‘Levels’ feature will be created for the player to move to the next level
-Current Score and High Score information will be shown up on the interface
-A timer will be set to track the game time
-‘Pause’ and ‘Resume’ options will be provided for the player to stop the game in between and continue from there
-The interface will have visually appealing design and background image
-Music feature will be implemented to produce different sounds when the game is being played
-The interface will follow all the ‘Golden Rules & Principles’ such as consistency, color, background, font, size etc that is covered in the class
+<br>An elegant  Tetris game board with various Tetris shapes will be implemented
+<br>Keyboard movement will be created to move the blocks
+<br>‘Levels’ feature will be created for the player to move to the next level
+<br>Current Score and High Score information will be shown up on the interface
+<br>A timer will be set to track the game time
+<br>‘Pause’ and ‘Resume’ options will be provided for the player to stop the game in between and continue from there
+<br>The interface will have visually appealing design and background image
+<br>Music feature will be implemented to produce different sounds when the game is being played
+<br>The interface will follow all the ‘Golden Rules & Principles’ such as consistency, color, background, font, size etc that is covered in the class
+
 
 How far did you go with the implementation?
 
