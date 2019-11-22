@@ -39,7 +39,7 @@ The plan to move forward?
 
 We will move with the implementation as shown in the sketches above.
 
-Step 1 - Game Board, Blocks, Timer
-Step 2 - Next block, Current Score, High Score
-Step 3 - Pause/Resume game, show up levels
+<br>Step 1 - Game Board, Blocks, Timer
+<br>Step 2 - Next block, Current Score, High Score
+<br>Step 3 - Pause/Resume game, show up levels
 
