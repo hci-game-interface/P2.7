@@ -2,7 +2,6 @@ Demo
 
 
 
-Play game 
 
 
 
