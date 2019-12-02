@@ -8,15 +8,14 @@ Demo Link
       <h2>Task Description</h2>
       </section>
       
-      <header>
+      <section class="Tetris!">
       <h1>Tetris!</h1>
-      <p>
-        Hi there,just play! (Controls listed below)
-      </p>
+       </section>
+      
    </header>
       
 <section class="controls">
-      <h2>Controls</h2>
+      <h3>Controls</h3>
       <ul>
         <li>Left/right arrow keys: move left/right</li>
         <li>Up arrow : rotate clockwise</li>
