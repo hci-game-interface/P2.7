@@ -8,6 +8,13 @@ Demo Link
       <h2>Task Description</h2>
       </section>
       
+      <header>
+      <h1>Tetris!</h1>
+      <p>
+        Hi there,just play! (Controls listed below)
+      </p>
+   </header>
+      
 <section class="controls">
       <h2>Controls</h2>
       <ul>
