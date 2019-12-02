@@ -53,4 +53,4 @@ Level : Based on the score achieved, the player will move to the next level. Sco
 
 Score & High Score : When the player forms a line, the score keeps adding up and the raise depends on how well the player is constructing the blocks. High Score is the highest score achieved by the player in the game.
 
-Background Music : There is a music set in the game background and this starts when the player starts the game.
+Background Music : There is a music set in the game background and this starts when the player runs the code for game.
