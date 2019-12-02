@@ -12,7 +12,9 @@ Demo Link
       </p>
        </section>
    </header>
-      
+  
+  Use the controls with the help of a keyboard and play the game. When all the cells of a row of the game board are occupied we say that the line is cleared and the score comes up and the player sees the raise in the 'lines' as well. When the player achieves the score of 100, the player moves to the next level and this keeps going. The high score will be shown to the player to check the highest score made in the game.
+  
 <section class="controls">
       <h3>Controls</h3>
       <ul>
@@ -51,3 +53,5 @@ Control :
 Level : Based on the score achieved, the player will move to the next level. Score required to move to the 2nd level is 100.
 
 Score & High Score : When the player forms a line, the score keeps adding up and the raise depends on how well the player is constructing the blocks. High Score is the highest score achieved by the player in the game.
+
+Background Music : There is a music set in the game background and this starts when the player starts the game.
