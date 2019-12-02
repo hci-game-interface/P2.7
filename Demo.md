@@ -3,7 +3,15 @@ Tetris Game Interface
 Demo Link
 <p><a href="https://hci-game-interface.github.io/Project-2---Tetris/">Play Game</a></p>
 
-Task Description
+Task Description :
+<section class="controls">
+      <h2>Controls</h2>
+      <ul>
+        <li>Left/right arrow keys: move left/right</li>
+        <li>Up arrow : rotate clockwise</li>
+        <li>Down arrow:  drop faster (move down faster)</li>
+      </ul>
+    </section>
 
 Hypothesis:
 
