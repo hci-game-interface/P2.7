@@ -1,9 +1,12 @@
-Tetris Game Interface
+<section class="Tetris Game Interface">
+</section>
 
 Demo Link
 <p><a href="https://hci-game-interface.github.io/Project-2---Tetris/">Play Game</a></p>
 
-Task Description :
+<section class="Task Description">
+      </section>
+      
 <section class="controls">
       <h2>Controls</h2>
       <ul>
