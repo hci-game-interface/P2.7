@@ -7,7 +7,7 @@
 <section class="Task Description">
       <h2>Task Description</h2>
        <p>
-        Hi there,just play! (Controls listed below)
+        Hi there, just play! (Controls listed below)
       </p>
        </section>
    </header>
