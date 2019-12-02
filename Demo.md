@@ -2,12 +2,10 @@
  <h2>Tetris!</h2>
 </section>
 
-Demo Link
 <p><a href="https://hci-game-interface.github.io/Project-2---Tetris/">Play Game</a></p>
 
 <section class="Task Description">
       <h2>Task Description</h2>
-       <h2>Tetris!</h2>
        <p>
         Hi there,just play! (Controls listed below)
       </p>
