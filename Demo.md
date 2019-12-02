@@ -17,7 +17,9 @@ Demo Link
       </ul>
     </section>
 
-Hypothesis:
+<section class="Hypothesis">
+      <h2>Hypothesis</h2>
+      </section>
 
 The game of Tetris is played on a rectangular board consisting of square (initially empty) cells. The board is of fixed and seven game pieces can be used, each covering board cells usually called blocks. These pieces are known as (from left to right) --> O or square, 
 --> J or leftgun,
