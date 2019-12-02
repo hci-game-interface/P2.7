@@ -26,6 +26,8 @@ Control :
 | Move Left   | ← |
 | Move Right  | → |                                                                                                         
 | Drop        | ↓ |                                                                                                                             
+|
+
 Level : Based on the score achieved, the player will move to the next level. Score required to move to the 2nd level is 100.
 
 Score & High Score : When the player forms a line, the score keeps adding up and the raise depends on how well the player is constructing the blocks. High Score is the highest score achieved by the player in the game.
