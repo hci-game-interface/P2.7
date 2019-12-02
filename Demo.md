@@ -6,11 +6,7 @@ Demo Link
 
 <section class="Task Description">
       <h2>Task Description</h2>
-     
-      
-      
-      <h1>Tetris!</h1>
-      
+       <h2>Tetris!</h2>
        <p>
         Hi there,just play! (Controls listed below)
       </p>
