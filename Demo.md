@@ -26,7 +26,7 @@ Control :
 | Move Left   | ← |
 | Move Right  | → |                                                                                                         
 | Drop        | ↓ |                                                                                                                             
-|
+
 
 Level : Based on the score achieved, the player will move to the next level. Score required to move to the 2nd level is 100.
 
