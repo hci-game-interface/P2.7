@@ -1,4 +1,5 @@
-<section class="Tetris Game Interface">
+<section class="Tetris!">
+ <h2>Tetris!</h2>
 </section>
 
 Demo Link
