@@ -14,8 +14,6 @@ The game interface looks like this
 
 <img src="https://user-images.githubusercontent.com/58001098/70393481-f7778d80-19af-11ea-88a0-5279215c2990.gif" width="700" height="500">
 
-
-
 | Team Members      | Duties                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Vineela Aradhyula <br><img src="https://user-images.githubusercontent.com/58001098/69386331-f80de580-0c87-11ea-9ef6-67ca9ca6e530.jpg" width="100"> | Set up Tetris game board<br>Created various Tetris shapes<br>Implemented keyboard movement<br>Created levels for the game<br>Display Current Score, High Score and Lines<br>Presentation Report creation<br>Makes sure that ‘Golden Rules & Principles’ are followed |
@@ -33,18 +31,18 @@ These are our sketches
 <br>1. Game board : An elegant Tetris game board with various Tetris shapes is implemented
 <br>2. Keyboard movement : Controls are created to move the blocks
 Control :
-
 | Control      | Symbols                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Move Left            | ← |
 | Move Right           | → |                                                                                                   
 | Drop                 | ↓ | 
 | Rotate Clockwise     | ↑ | 
+
 <br>3. Lines : Whenever all the cells of a row (also called line) of the game board are occupied, the line is cleared; all blocks above it are lowered by one row (and no more). This row clearing can happen for several lines simultaneously.
 <br>4. Score & High Score : When the player forms a line, the score keeps adding up and the raise depends on how well the player is constructing the blocks. High Score is the highest score achieved by the player in the game.
 <br>5. Level : Based on the score achieved, the player will move to the next level. Score required to move to the 2nd level is 100.
 Our design looks like this with the 'scores' and 'Level' implementation without Timer, Music and Pause/Resume.
-<img src="https://user-images.githubusercontent.com/58001098/70393772-77ebbd80-19b3-11ea-9674-316e379c7969.png.png" width="400">
+<img src="https://user-images.githubusercontent.com/58001098/70393772-77ebbd80-19b3-11ea-9674-316e379c7969.png" width="400">
 <br>6. Pause/Resume : A pause and resume function through which you can pause the game whenever you want and resume it without losing the score. 
 <br>7.Timer : There is also a time tracker function for Tetris which will show for how much time you have played the game.
 <br>8.Music : By implementing the looping code for the background music. When the program runs and the music plays and after certain time there is change in the music as you move forward with the levels.
