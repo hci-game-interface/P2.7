@@ -439,7 +439,7 @@
             g.font = smallFont;
             g.fillText('High Score       ' + scoreboard.getTopscore(), scoreX+400, scoreY-18);
             g.fillText('Level      ' + scoreboard.getLevel(), scoreX + 1, scoreY + 200);
-            g.fillText('Time    '+timecount,scoreX + 1, scoreY + 300) 
+            g.fillText('Time    '+timecount,scoreX + 1, scoreY - 15) 
             g.fillText('lines       ' + scoreboard.getLines(), scoreX+1, scoreY + 100);
             g.fillText('Score      ' + scoreboard.getScore(), scoreX+220, scoreY-18);
  
