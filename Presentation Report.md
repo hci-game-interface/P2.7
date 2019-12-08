@@ -2,7 +2,7 @@
  <h2>Tetris!</h2>
 </section>
 
-<p><a href="https://hci-game-interface.github.io/Project-2---Tetris/">Play Game</a></p>
+<p><a href="https://hci-game-interface.github.io/P2.7/">Play Game</a></p>
 
 What is Tetris and how to play this?
 
