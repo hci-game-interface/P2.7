@@ -1,3 +1,9 @@
+<section class="Tetris!">
+ <h2>Tetris!</h2>
+</section>
+
+<p><a href="https://hci-game-interface.github.io/Project-2---Tetris/">Play Game</a></p>
+
 What is Tetris and how to play this?
 
 Tetris is a tile-matching puzzle video game. It is primarily composed of a field of play in which pieces of different geometric forms, called "tetriminos", descend from the top of the field.During this descent, the player can move the pieces laterally and rotate them until they touch the bottom of the field or land on a piece that had been placed before it. 
@@ -42,11 +48,7 @@ We will move with the implementation as shown in the sketches above.
 <br>Step 2 - Next block, Current Score, High Score
 <br>Step 3 - Pause/Resume game, show up levels
 
-<section class="Tetris!">
- <h2>Tetris!</h2>
-</section>
 
-<p><a href="https://hci-game-interface.github.io/Project-2---Tetris/">Play Game</a></p>
 
 <section class="Task Description">
       <h2>Task Description</h2>
