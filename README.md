@@ -1,7 +1,7 @@
 # Project-2---Tetris
 Tetris Game Interface
 
-<p><a href="https://hci-game-interface.github.io/P2.7---Tetris">Play Game</a></p>
+<p><a href="https://hci-game-interface.github.io/P2.7">Play Game</a></p>
 
 What is Tetris and how to play this?
 
