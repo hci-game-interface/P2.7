@@ -30,9 +30,8 @@ These are our sketches
 
 <section class="Our Work/ Main Functions">
       <h3>Our Work/ Main Functions</h3>
-      </section>
-      
-    1. Game board : An elegant Tetris game board with various Tetris shapes is implemented
+      </section>     
+<br>1. Game board : An elegant Tetris game board with various Tetris shapes is implemented
 <br>2. Keyboard movement : Controls are created to move the blocks
 
 | Control      | Symbols                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
