@@ -18,16 +18,19 @@ The game interface looks like this
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Vineela Aradhyula <br><img src="https://user-images.githubusercontent.com/58001098/69386331-f80de580-0c87-11ea-9ef6-67ca9ca6e530.jpg" width="100"> | Set up Tetris game board<br>Created various Tetris shapes<br>Implemented keyboard movement<br>Created levels for the game<br>Display Current Score, High Score and Lines<br>Presentation Report creation<br>Makes sure that ‘Golden Rules & Principles’ are followed |
 | Nitisha Patange  <br><img src="https://user-images.githubusercontent.com/58001098/69386759-1fb17d80-0c89-11ea-851f-673eed82470f.jpeg" width="100">  | Implemented ‘Pause’ feature so that the player can pause the game <br>and resume it to continue without loosing the score<br>Set up the timer to track the game time                                                                                                                                                                                                                                                                                             |
-| Sonali Singh  <br><img src="https://user-images.githubusercontent.com/58001098/69386855-6ef7ae00-0c89-11ea-87a4-2224ca63051f.jpeg" width="100">    | Added the background design and image for the interface<br>Implemented music feature, where the game exhibits different <br>sounds while playing                                                                                                                                                                                                                                                                                                                    |                                                                    
-Sketches :
+| Sonali Singh  <br><img src="https://user-images.githubusercontent.com/58001098/69386855-6ef7ae00-0c89-11ea-87a4-2224ca63051f.jpeg" width="100">    | Added the background design and image for the interface<br>Implemented music feature, where the game exhibits different <br>sounds while playing                                                                                                                                                                                                                                                                                                                    |             <section class="Sketches">
+      <h3>Sketches</h3>
+      </section>                                                       
 
 These are our sketches
 
 <img src="https://user-images.githubusercontent.com/58001098/69388267-e7606e00-0c8d-11ea-9153-b450e0bb1ca0.png" width="400"> <img src="https://user-images.githubusercontent.com/58001098/69388390-5342d680-0c8e-11ea-9fc9-6648081993dd.png" width="400">
 <img src="https://user-images.githubusercontent.com/58001098/69388470-8be2b000-0c8e-11ea-9db6-d11fa8104dd9.png" width="400">
 
-<br><br>Our work / Main functions :
-<br>
+<section class="Our Work/ Main Functions">
+      <h3>Our Work/ Main Functions</h3>
+      </section>
+      
 <br>1. Game board : An elegant Tetris game board with various Tetris shapes is implemented
 <br>2. Keyboard movement : Controls are created to move the blocks
 Control :
@@ -51,7 +54,9 @@ Our design looks like this with the 'scores' and 'Level' implementation without 
 <br>10. The interface is visually appealing design and background image
 <br>11. The interface is created by following the ‘Golden Rules & Principles’ such as consistency, color, background, font, size etc that is covered in the class
 
-References :
+<section class="References">
+      <h3>References</h3>
+      </section>
 
 https://www.youtube.com/watch?v=Wcb0_Q9r6i4
 <br>https://www.youtube.com/watch?v=d8Cn_H51PmI
