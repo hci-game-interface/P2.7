@@ -31,13 +31,14 @@ These are our sketches
 <br>1. Game board : An elegant Tetris game board with various Tetris shapes is implemented
 <br>2. Keyboard movement : Controls are created to move the blocks
 Control :
+
 | Control      | Symbols                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Move Left            | ← |
 | Move Right           | → |                                                                                                   
 | Drop                 | ↓ | 
 | Rotate Clockwise     | ↑ | 
-
+ 
 <br>3. Lines : Whenever all the cells of a row (also called line) of the game board are occupied, the line is cleared; all blocks above it are lowered by one row (and no more). This row clearing can happen for several lines simultaneously.
 <br>4. Score & High Score : When the player forms a line, the score keeps adding up and the raise depends on how well the player is constructing the blocks. High Score is the highest score achieved by the player in the game.
 <br>5. Level : Based on the score achieved, the player will move to the next level. Score required to move to the 2nd level is 100.
