@@ -109,7 +109,8 @@ Control :
 | Move Left            | ← |
 | Move Right           | → |                                                                                                   
 | Drop                 | ↓ | 
-| Rotate Clockwise     | ↑ | 
+| Rotate Clockwise     | ↑ |
+| Pause Button         | P |
 
 
 Level : Based on the score achieved, the player will move to the next level. Score required to move to the 2nd level is 100.
