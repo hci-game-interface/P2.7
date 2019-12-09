@@ -1,9 +1,4 @@
-'use strict';
-        var canvas = document.querySelector('canvas');
-        canvas.width = 700;
-        canvas.height = 700;
- 
-        var g = canvas.getContext('2d');
+
  
         var right = { x: 1, y: 0 };
         var down = { x: 0, y: 1 };
