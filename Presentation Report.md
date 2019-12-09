@@ -51,6 +51,7 @@ These are our sketches
 <br>8. Music : By implementing the looping code for the background music. When the program runs and the music plays and after certain time there is change in the music as you move forward with the levels.
 <br>9. UI Implementation : Embedded and collaborated the code to check if all the features are working properly and also set up a background image for the game.
 <br>After adding all the features the design looks like this.
+<br>
 <br><img src="https://user-images.githubusercontent.com/58001098/70399203-88b62680-19e7-11ea-9c51-178b576cabd7.png" width="400">
 <br>10. The interface is visually appealing design and background image
 <br>11. The interface is created by following the ‘Golden Rules & Principles’ such as consistency, color, background, font, size etc that is covered in the class
