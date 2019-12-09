@@ -63,9 +63,12 @@ These are our sketches
 https://www.youtube.com/watch?v=Wcb0_Q9r6i4
 <br>https://www.youtube.com/watch?v=d8Cn_H51PmI
 
+<section class="User Feedback">
+      <h2>User Feedback</h2>
+      </section>
 
 <section class="Task Description">
-      <h2>Task Description</h2>
+      <h3>Task Description</h3>
        <p>
         Hi there, just play! (Controls listed below)
       </p>
