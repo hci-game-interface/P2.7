@@ -53,7 +53,7 @@ These are our sketches
 <br>After adding all the features the design looks like this.
 <br>
 <br><img src="https://user-images.githubusercontent.com/58001098/70399203-88b62680-19e7-11ea-9c51-178b576cabd7.png" width="400">
-<br>10. The interface is visually appealing design and background image
+<br>10. The interface is visually appealing with a background image
 <br>11. The interface is created by following the ‘Golden Rules & Principles’ such as consistency, color, background, font, size etc that is covered in the class
 
 <section class="References">
