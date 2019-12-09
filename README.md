@@ -45,14 +45,14 @@ These are our sketches
 <br>4. Score & High Score : When the player forms a line, the score keeps adding up and the raise depends on how well the player is constructing the blocks. High Score is the highest score achieved by the player in the game.
 <br>5. Level : Based on the score achieved, the player will move to the next level. Score required to move to the 2nd level is 100.
 <br>The design looks like this with the 'scores' and 'Level' implementation without Timer, Music and Pause/Resume.
-<img src="https://user-images.githubusercontent.com/58001098/70393772-77ebbd80-19b3-11ea-9674-316e379c7969.png" width="400">
+<img src="https://user-images.githubusercontent.com/58001098/70393772-77ebbd80-19b3-11ea-9674-316e379c7969.png" width="500">
 <br>6. Pause/Resume : A pause and resume function through which you can pause the game whenever you want and resume it without losing the score. 
 <br>7. Timer : There is also a time tracker function for Tetris which will show for how much time you have played the game.
 <br>8. Music : By implementing the looping code for the background music. When the program runs and the music plays and after certain time there is change in the music as you move forward with the levels.
 <br>9. UI Implementation : Embedded and collaborated the code to check if all the features are working properly and also set up a background image for the game.
 <br>After adding all the features the design looks like this.
 <br>
-<br><img src="https://user-images.githubusercontent.com/58001098/70399203-88b62680-19e7-11ea-9c51-178b576cabd7.png" width="400">
+<br><img src="https://user-images.githubusercontent.com/58001098/70399203-88b62680-19e7-11ea-9c51-178b576cabd7.png" width="500">
 <br>10. The interface is visually appealing with a background image
 <br>11. The interface is created by following the ‘Golden Rules & Principles’ such as consistency, color, background, font, size etc that is covered in the class
 
