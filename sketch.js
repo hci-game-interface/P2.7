@@ -525,5 +525,4 @@
         }
  
         init();
-ajsjsk
 
